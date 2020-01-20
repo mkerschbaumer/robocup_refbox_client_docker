@@ -1,9 +1,3 @@
-[submodule "src/atwork_refbox_comm"]
-	path = src/atwork_refbox_comm
-	url = https://github.com/mkerschbaumer/atwork_refbox_comm
-[submodule "src/atwork_refbox_ros_client"]
-	path = src/atwork_refbox_ros_client
-	url = https://github.com/mkerschbaumer/atwork_refbox_ros_client
 [submodule "src"]
 	path = src
 	url = https://github.com/mkerschbaumer/atwork_refbox_ros_client2.git
